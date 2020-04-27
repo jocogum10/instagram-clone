@@ -1,0 +1,54 @@
+body{
+    max-width: 600px;
+    margin: 10px auto 10px auto;
+    padding: 30px;
+}
+#content{
+    display: block;
+    margin: 10px auto 10px auto;
+    overflow: hidden;
+}
+#welcome-picture{
+    float: left;
+    margin: auto;
+}
+#welcome-form{
+    width: 50%;
+    float: right;
+    clear: right;
+    margin: auto;
+    padding: 30px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: black;
+    text-align: center;
+}
+#welcome-form-divider{
+    display: block;
+    margin: 10px auto 10px auto;
+    overflow: hidden;
+}
+#welcome-form-divider #line{
+    border-width: 1px;
+    border-style: solid;
+    border-color: black;
+    width: 100%;
+}
+#welcome-form-divider h1{
+    display: inline;
+}
+#welcome-form a{
+    text-decoration: none;
+}
+
+#lower-half-of-form{
+    width: 50%;
+    float: right;
+    clear: right;
+    margin: 10px auto 10px auto;
+    padding: 30px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: black;
+    text-align: center;
+}
