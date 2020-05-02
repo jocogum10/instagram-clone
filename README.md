@@ -11,3 +11,6 @@ Javascript - language
 NodeJS with expess.js - backend
 Handlebars - frontend
 MongoDB - database
+
+# sources
+Udemy - MERN Stack master course - building your own instagram
